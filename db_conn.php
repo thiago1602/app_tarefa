@@ -2,7 +2,7 @@
 
 $sName = "localhost";
 $uName = "root";
-$pass = "aula";
+$pass = "";
 $db_name = "lista_tarefas";
 
 try {
